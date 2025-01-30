@@ -27,6 +27,7 @@ The "Maven Market" project is focused on cleaning, transforming, modeling and vi
 - *pivot tables*
 - *measures using basic DAX language*
 
+
 **Examples of visual elements used:**
 - *using a self-created tooltip*
 - *interactive buttons connected to bookmarks/pages*
